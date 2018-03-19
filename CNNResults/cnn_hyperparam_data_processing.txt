@@ -1,0 +1,648 @@
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.74
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.73
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.59
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.74
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.73
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.74
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.57
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.58
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.55
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.7
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.59
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.75
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.55
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.49
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.71
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.54
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.54
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.72
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.69
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.59
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.57
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.67
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.57
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 20, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.58
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.45
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.6
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.57
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.56
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.66
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.52
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 12, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.54
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.61
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.56
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.5
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 4, 'batch_size': 200, 'lr': 0.0001}
+Accuracy on the validation set:  0.59
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.001}
+Accuracy on the validation set:  0.64
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0005}
+Accuracy on the validation set:  0.59
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 50, 'lr': 0.0001}
+Accuracy on the validation set:  0.63
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.001}
+Accuracy on the validation set:  0.68
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0005}
+Accuracy on the validation set:  0.52
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 100, 'lr': 0.0001}
+Accuracy on the validation set:  0.65
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.001}
+Accuracy on the validation set:  0.62
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+Accuracy on the validation set:  0.48
+parameters of the best model:
+{'filter_num': 10, 'filter_size': 4, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0001}
