@@ -1,0 +1,16 @@
+
+Accuracy on the validation set:  0.74
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 28, 'pool_size': 2, 'batch_size': 200, 'lr': 0.0005}
+
+Accuracy on the validation set:  0.74
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 28, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+
+Accuracy on the validation set:  0.74
+parameters of the best model:
+{'filter_num': 30, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.0005}
+
+Accuracy on the validation set:  0.75
+parameters of the best model:
+{'filter_num': 20, 'filter_size': 4, 'pool_size': 4, 'batch_size': 100, 'lr': 0.001}
